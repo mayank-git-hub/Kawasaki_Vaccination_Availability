@@ -30,7 +30,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '509(an$9ss6h0a$@x952+-qipqdyrf6)-^b1-%0@$i-e+%1aet'
+# Mayank - Setup the secret key! Any random string should work.
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
